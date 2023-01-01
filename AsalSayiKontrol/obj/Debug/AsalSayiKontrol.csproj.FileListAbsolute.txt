@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\bin\Debug\AsalSayiKontrol.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\bin\Debug\AsalSayiKontrol.exe
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\bin\Debug\AsalSayiKontrol.pdb
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\obj\Debug\AsalSayiKontrol.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\obj\Debug\AsalSayiKontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\obj\Debug\AsalSayiKontrol.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\obj\Debug\AsalSayiKontrol.exe
+C:\Users\gulca\OneDrive\Masaüstü\AsalSayiKontrol\obj\Debug\AsalSayiKontrol.pdb
